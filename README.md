@@ -6,7 +6,7 @@ Our approach differs from humanity's current approach in that we do not build ra
 
 TODO:
 - [ ] Minimize needless suffering
-- - [x] Create a Gmail account: minimizeneedlesssuffering@gmail.com
-- - [x] Create a GitHub account
-- - [x] Write a first draft introductory statement
-- - [ ] Ask friends for input
+  - [x] Create a Gmail account: minimizeneedlesssuffering@gmail.com
+  - [x] Create a GitHub account
+  - [x] Write a first draft introductory statement
+  - [ ] Ask friends for input
